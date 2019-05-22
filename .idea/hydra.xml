@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="F:\[JOJO老师][大数据开发之Flink从入门到精通]\8.Flink SQL实战讲解\代码\filink-project\.hydra\idea" />
+    <option name="noOfCores" value="4" />
+    <option name="projectRoot" value="F:\[JOJO老师][大数据开发之Flink从入门到精通]\8.Flink SQL实战讲解\代码\filink-project" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>
